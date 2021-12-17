@@ -1,0 +1,18 @@
+Arduino-Pico Library: https://github.com/earlephilhower/arduino-pico
+
+Arduino-Pico Documentation: https://arduino-pico.readthedocs.io/en/latest/
+
+Raspberry Pi Pico SDK Documentation: https://raspberrypi.github.io/pico-sdk-doxygen/index.html
+
+CAN Bus Library: https://github.com/autowp/arduino-mcp2515
+
+FrSky Taranis X-Lite Product Page: https://www.frsky-rc.com/product/taranis-x-lite/
+
+OpenTX v2.2 Manual: https://doc.open-tx.org/manual-for-opentx-2-2/
+
+Items For Purchase:
+ - FrSky R-XSR Ultra SBUS/CPPM D16 16CH Mini Redundancy Receiver: https://www.amazon.com/gp/product/B074QHJRBC/ref=ox_sc_saved_title_1?smid=AK3V5KK2JCVKS&psc=1
+ - FrSky Transmitter Taranis X-Lite S 24CH Radio: https://www.amazon.com/gp/product/B07TB1QY1F/ref=ox_sc_saved_title_2?smid=AK3V5KK2JCVKS&psc=1
+ - Treedix Compatible with Raspberry PI PICO Breakout Board: https://www.amazon.com/gp/product/B091F7YSCD/ref=ox_sc_saved_title_3?smid=A22NPL1KB8AOV0&psc=1
+ - Teyleten Robot 1 Channel 5V Relay Module Board Shield Relay: https://www.amazon.com/gp/product/B087ZQZJXT/ref=ox_sc_saved_title_4?smid=A38CU2XC1RY0BO&psc=1
+ - Comidox 3Pcs MCP2515 CAN Bus Module TJA1050 Receiver SPI Module: https://www.amazon.com/gp/product/B07J9KZ4L4/ref=ox_sc_saved_title_5?smid=A1IU4FC9F8Y7P1&psc=1
