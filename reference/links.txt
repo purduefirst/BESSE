@@ -7,6 +7,7 @@ Raspberry Pi Pico SDK Documentation: https://raspberrypi.github.io/pico-sdk-doxy
 CAN Bus Library: https://github.com/autowp/arduino-mcp2515
 
 MCP2515 Setup Reference: https://www.electronicshub.org/arduino-mcp2515-can-bus-tutorial/
+                         https://www.seeedstudio.com/blog/2020/06/05/mcp2515-can-bus-arduino-tutorial-getting-started-interfacing-applications/
 
 FrSky Taranis X-Lite Product Page: https://www.frsky-rc.com/product/taranis-x-lite/
 
